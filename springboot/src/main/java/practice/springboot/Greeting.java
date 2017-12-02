@@ -15,6 +15,7 @@ public class Greeting {
 	    }
 
 	    public String getContent() {
+		    System.out.println("hi");
 	        return content;
 	    }
 	}
